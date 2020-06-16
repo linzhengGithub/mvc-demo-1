@@ -1,0 +1,6 @@
+body > #page{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+body::-webkit-scrollbar { width: 0 !important }
